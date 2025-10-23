@@ -1,0 +1,166 @@
+
+@media screen and (max-width: 575px) {
+      body {
+        font-family: Arial, sans-serif;
+        background: #5e5ee2;
+        margin: 16px;
+      }
+      form {
+        max-width: 720px;
+        margin: auto;
+        background: #04003f;
+        padding: 12px;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+      }
+      h1 {
+        font-size: 1.1rem;
+        margin: 0 0 12px;
+        color: white;
+      }
+      .g {
+        margin: 8px 0;
+      }
+      label {
+        display: block;
+        margin-bottom: 4px;
+        color: white;
+      }
+      input,
+      select {
+        width: 98%;
+        padding: 8px;
+        border: 1px solid #cfcfd4;
+        border-radius: 4px;
+        font-size: 1rem;
+        background-color: #04003f;
+        color: white;
+      }
+      .acciones {
+        margin-top: 12px;
+      }
+      button {
+        padding: 9px 12px;
+        border: 1px solid #0b6bcb;
+        background: #1177dd;
+        color: #fff;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      button + button {
+        margin-left: 6px;
+        background: #eef3f9;
+        color: #0b6bcb;
+        border-color: #a7c7ef;
+      }
+}
+@media screen and (min-width: 576px) and (max-width: 991px) {
+      body {
+        font-family: Arial, sans-serif;
+        background: #5e5ee2;
+        margin: 16px;
+      }
+      form {
+        max-width: 720px;
+        margin: auto;
+        background: #04003f;
+        padding: 12px;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+      }
+      h1 {
+        font-size: 1.1rem;
+        margin: 0 0 12px;
+        color: white;
+      }
+      .g {
+        margin: 8px 0;
+      }
+      label {
+        display: block;
+        margin-bottom: 4px;
+        color: white;
+      }
+      input,
+      select {
+        width: 98%;
+        padding: 8px;
+        border: 1px solid #cfcfd4;
+        border-radius: 4px;
+        font-size: 1rem;
+        background-color: #04003f;
+        color: white;
+      }
+      .acciones {
+        margin-top: 12px;
+      }
+      button {
+        padding: 9px 12px;
+        border: 1px solid #0b6bcb;
+        background: #1177dd;
+        color: #fff;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      button + button {
+        margin-left: 6px;
+        background: #eef3f9;
+        color: #0b6bcb;
+        border-color: #a7c7ef;
+      }
+}
+@media screen and (min-width: 992px) {
+      body {
+        font-family: Arial, sans-serif;
+        background: #5e5ee2;
+        margin: 16px;
+      }
+      form {
+        max-width: 720px;
+        margin: auto;
+        background: #04003f;
+        padding: 12px;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+      }
+      h1 {
+        font-size: 1.1rem;
+        margin: 0 0 12px;
+        color: white;
+      }
+      .g {
+        margin: 8px 0;
+      }
+      label {
+        display: block;
+        margin-bottom: 4px;
+        color: white;
+      }
+      input,
+      select {
+        width: 98%;
+        padding: 8px;
+        border: 1px solid #cfcfd4;
+        border-radius: 4px;
+        font-size: 1rem;
+        background-color: #04003f;
+        color: white;
+      }
+      .acciones {
+        margin-top: 12px;
+      }
+      button {
+        padding: 9px 12px;
+        border: 1px solid #0b6bcb;
+        background: #1177dd;
+        color: #fff;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      button + button {
+        margin-left: 6px;
+        background: #eef3f9;
+        color: #0b6bcb;
+        border-color: #a7c7ef;
+      }
+}
